@@ -1,2 +1,2 @@
 # gitrepo
-gitrepo optional
+gitrepo optional new content
